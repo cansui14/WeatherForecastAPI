@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|c:\\users\\cansu\\desktop\\aspnetcoreapi-jwt-bearer\\aspnetcoreapi-jwt-bearer\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|solutionrelative:aspnetcoreapi-jwt-bearer\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|c:\\users\\cansu\\desktop\\aspnetcoreapi-jwt-bearer\\aspnetcoreapi-jwt-bearer\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|solutionrelative:aspnetcoreapi-jwt-bearer\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|c:\\users\\cansu\\desktop\\aspnetcoreapi-jwt-bearer\\aspnetcoreapi-jwt-bearer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|solutionrelative:aspnetcoreapi-jwt-bearer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|c:\\users\\cansu\\desktop\\aspnetcoreapi-jwt-bearer\\aspnetcoreapi-jwt-bearer\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|solutionrelative:aspnetcoreapi-jwt-bearer\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|c:\\users\\cansu\\desktop\\aspnetcoreapi-jwt-bearer\\aspnetcoreapi-jwt-bearer\\aspnetcoreapi-jwt-bearer.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|solutionrelative:aspnetcoreapi-jwt-bearer\\aspnetcoreapi-jwt-bearer.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|c:\\users\\cansu\\desktop\\aspnetcoreapi-jwt-bearer\\aspnetcoreapi-jwt-bearer\\migrations\\20240815152243_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|solutionrelative:aspnetcoreapi-jwt-bearer\\migrations\\20240815152243_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|c:\\users\\cansu\\desktop\\aspnetcoreapi-jwt-bearer\\aspnetcoreapi-jwt-bearer\\aspnetcoreapi-jwt-bearer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|solutionrelative:aspnetcoreapi-jwt-bearer\\aspnetcoreapi-jwt-bearer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|c:\\users\\cansu\\desktop\\aspnetcoreapi-jwt-bearer\\aspnetcoreapi-jwt-bearer\\startextensions\\jwtextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|solutionrelative:aspnetcoreapi-jwt-bearer\\startextensions\\jwtextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|c:\\users\\cansu\\desktop\\aspnetcoreapi-jwt-bearer\\aspnetcoreapi-jwt-bearer\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|solutionrelative:aspnetcoreapi-jwt-bearer\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|c:\\users\\cansu\\desktop\\aspnetcoreapi-jwt-bearer\\aspnetcoreapi-jwt-bearer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|solutionrelative:aspnetcoreapi-jwt-bearer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|c:\\users\\cansu\\desktop\\aspnetcoreapi-jwt-bearer\\aspnetcoreapi-jwt-bearer\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|solutionrelative:aspnetcoreapi-jwt-bearer\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|c:\\users\\cansu\\desktop\\aspnetcoreapi-jwt-bearer\\aspnetcoreapi-jwt-bearer\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|solutionrelative:aspnetcoreapi-jwt-bearer\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|c:\\users\\cansu\\desktop\\aspnetcoreapi-jwt-bearer\\aspnetcoreapi-jwt-bearer\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|solutionrelative:aspnetcoreapi-jwt-bearer\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|c:\\users\\cansu\\desktop\\aspnetcoreapi-jwt-bearer\\aspnetcoreapi-jwt-bearer\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|solutionrelative:aspnetcoreapi-jwt-bearer\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|c:\\users\\cansu\\desktop\\aspnetcoreapi-jwt-bearer\\aspnetcoreapi-jwt-bearer\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|solutionrelative:aspnetcoreapi-jwt-bearer\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|c:\\users\\cansu\\desktop\\aspnetcoreapi-jwt-bearer\\aspnetcoreapi-jwt-bearer\\data\\personeldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|solutionrelative:aspnetcoreapi-jwt-bearer\\data\\personeldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|c:\\users\\cansu\\desktop\\aspnetcoreapi-jwt-bearer\\aspnetcoreapi-jwt-bearer\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|solutionrelative:aspnetcoreapi-jwt-bearer\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|c:\\users\\cansu\\desktop\\aspnetcoreapi-jwt-bearer\\aspnetcoreapi-jwt-bearer\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|solutionrelative:aspnetcoreapi-jwt-bearer\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|c:\\users\\cansu\\desktop\\aspnetcoreapi-jwt-bearer\\aspnetcoreapi-jwt-bearer\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497C3726-6ED5-4BD6-AC01-B1E5CE993FEF}|AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj|solutionrelative:aspnetcoreapi-jwt-bearer\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Jwt-Bearer\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AspNetCoreAPI-Jwt-Bearer\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:19:28.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Jwt-Bearer\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AspNetCoreAPI-Jwt-Bearer\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T07:38:29.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\StartExtensions\\JwtExtensions.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Jwt-Bearer\\StartExtensions\\JwtExtensions.cs",
+              "ToolTip": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\StartExtensions\\JwtExtensions.cs",
+              "RelativeToolTip": "AspNetCoreAPI-Jwt-Bearer\\StartExtensions\\JwtExtensions.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:27:00.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\appsettings.json",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Jwt-Bearer\\appsettings.json",
+              "ToolTip": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\appsettings.json",
+              "RelativeToolTip": "AspNetCoreAPI-Jwt-Bearer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T07:58:45.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AspNetCoreAPI-Jwt-Bearer.http",
+              "DocumentMoniker": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.http",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.http",
+              "ToolTip": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.http",
+              "RelativeToolTip": "AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-15T15:16:49.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Jwt-Bearer\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\WeatherForecast.cs",
+              "RelativeToolTip": "AspNetCoreAPI-Jwt-Bearer\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:17:13.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AspNetCoreAPI-Jwt-Bearer.csproj",
+              "DocumentMoniker": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj",
+              "ToolTip": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj",
+              "RelativeToolTip": "AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-15T15:17:06.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Jwt-Bearer\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "AspNetCoreAPI-Jwt-Bearer\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:17:56.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Jwt-Bearer\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "AspNetCoreAPI-Jwt-Bearer\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:37:56.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240815152243_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\Migrations\\20240815152243_Initial.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Jwt-Bearer\\Migrations\\20240815152243_Initial.cs",
+              "ToolTip": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\Migrations\\20240815152243_Initial.cs",
+              "RelativeToolTip": "AspNetCoreAPI-Jwt-Bearer\\Migrations\\20240815152243_Initial.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:22:43.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Jwt-Bearer\\Program.cs",
+              "ToolTip": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\Program.cs",
+              "RelativeToolTip": "AspNetCoreAPI-Jwt-Bearer\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:10:21.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Jwt-Bearer\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "AspNetCoreAPI-Jwt-Bearer\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:30:50.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Jwt-Bearer\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "AspNetCoreAPI-Jwt-Bearer\\DTOs\\EmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:55:42.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Jwt-Bearer\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "AspNetCoreAPI-Jwt-Bearer\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:59:04.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Jwt-Bearer\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "AspNetCoreAPI-Jwt-Bearer\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:28:26.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PersonelDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\Data\\PersonelDbContext.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Jwt-Bearer\\Data\\PersonelDbContext.cs",
+              "ToolTip": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\Data\\PersonelDbContext.cs",
+              "RelativeToolTip": "AspNetCoreAPI-Jwt-Bearer\\Data\\PersonelDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:01:14.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Jwt-Bearer\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\Entities\\Employee.cs",
+              "RelativeToolTip": "AspNetCoreAPI-Jwt-Bearer\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:53:16.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Jwt-Bearer\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "AspNetCoreAPI-Jwt-Bearer\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:18:49.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "AspNetCoreAPI-Jwt-Bearer\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\CANSU\\Desktop\\AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "AspNetCoreAPI-Jwt-Bearer\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:16:42.4Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

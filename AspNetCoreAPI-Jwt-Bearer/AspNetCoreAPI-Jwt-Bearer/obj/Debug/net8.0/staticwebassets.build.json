@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Sd+GVgAzCEHEqWUUbkG2Qe7EpIzp2rd8/3BqtXOvjEs=",
+  "Source": "AspNetCoreAPI-Jwt-Bearer",
+  "BasePath": "_content/AspNetCoreAPI-Jwt-Bearer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
